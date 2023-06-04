@@ -11,4 +11,5 @@
 
 ## Final Project - Pemrograman Jaringan 
 ### Checkers with Online Multiplayer
+#### Introduction
 Permainan strategi yang dimainkan di atas papan persegi dan terdiri dari kotak-kotak hitam dan putih. Permainan ini melibatkan dua pemain yang bergantian untuk memindahkan checkernya di atas papan dengan tujuan mengambil atau "menyerang" checker lawan dan mencapai sisi lawan papan dengan checker mereka untuk mendapatkan "raja" (king).
