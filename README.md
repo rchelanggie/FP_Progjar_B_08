@@ -10,6 +10,6 @@
 | Ichsanul Aulia | 05111840007001  |
 
 ## Final Project - Pemrograman Jaringan 
-### Checkers with Online Multiplayer
+### Checkers with Pygame
 #### Introduction
 Permainan taktik yang dilakukan pada suatu papan persegi dengan kotak-kotak berwarna hitam dan putih. Dalam permainan ini, dua pemain bergantian untuk memindahkan bidak mereka di atas papan dengan tujuan menyerang atau mengambil bidak lawan dan mencapai sisi lawan papan dengan bidak mereka untuk menjadi "raja" (king).
