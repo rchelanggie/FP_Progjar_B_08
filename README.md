@@ -17,5 +17,6 @@ Permainan taktik yang dilakukan pada suatu papan persegi dengan kotak-kotak berw
 #### Manual Penggunaan
 - Jalankan file server.py
 - Lalu split terminal dan jalankan file client.py di terminal yang baru dibuka- Lakukan langkah tersebut dua kali untuk mendapatkan 2 client di dalam 1 grup. Kedua client dapat saling berkomunikasi jikaada di dalam satu grup
-- Game dapat dimainkan sampai selesai dengan cara menekan tombol play pada home page
+- Untuk memulai permainan, dapat dengan membuka home page dan menekan tombol mulai.
+- Mainkan game Checkers seperti biasa.
 - Masing-masing game dapat dijalankan hingga selesai, walaupun tidak terdapat koneksi.
