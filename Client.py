@@ -5,7 +5,7 @@ import subprocess
 host = '127.0.0.1'
 port = 8000
 
-subprocess.Popen(["python", "main.py"])  
+subprocess.Popen(["python", "home.py"])  
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client_socket.connect((host, port))
